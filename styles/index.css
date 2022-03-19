@@ -145,6 +145,12 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+  -webkit-transition: all 500ms;
+  transition: all 500ms;
+}
+
 body {
   width: 100%;
   margin: 0;

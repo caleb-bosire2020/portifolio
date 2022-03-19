@@ -90,6 +90,10 @@
         }
     }
 }
+html{
+    scroll-behavior: smooth;
+    transition: all 500ms;
+}
 body{
     width: 100%;
     margin: 0;
